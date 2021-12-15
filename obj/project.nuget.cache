@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tXNYmTVmH6eGydoNPkUGJo6aRtzfg3qUsFNIzgfT+SueNm9mz55071Dz6G9nJKWy1efr3mvXLZAJg4jbsZ9vdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shake\\repos\\LinqExercise\\LinqExercise\\LinqExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shake\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\shake\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\shake\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\shake\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\shake\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\shake\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\shake\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
